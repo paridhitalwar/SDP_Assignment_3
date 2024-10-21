@@ -10,7 +10,7 @@
 The email generation application utilizes the Template Method Pattern to create a structured process for generating emails for different types of customers. This pattern allows for a skeleton of an algorithm to be defined in the superclass (EmailGenerationTemplate), while specific steps of the algorithm are implemented in subclasses (BusinessCustomer, ReturningCustomer, FrequentCustomer, NewCustomer, VIPCustomer). This design promotes code reuse and adheres to the Open/Closed Principle by allowing the application to be open for extension but closed for modification.
 
 # GitHub Repository Link:
-https://github.com/paridhitalwar/SDP_Assignment_2
+https://github.com/paridhitalwar/SDP_Assignment_3
 
 # Implementation Description 
 
